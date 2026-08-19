@@ -1,0 +1,9 @@
+protein_id,protein_name,subcellular_location,gene_symbol,chromosome,canonical_length_aa,description
+P0001,ATP-transport associated membrane protein,MEMBRANE,ANON1,chr01,740,Membrane transporter with extracellular loops; candidate target-like profile
+P0002,Cell adhesion scaffold receptor,MEMBRANE,ANON2,chr03,612,Adhesion-like receptor with isoform-specific extracellular region
+P0003,Secreted matrix-associated glycoprotein,SECRETED,ANON3,chr07,428,Secreted biomarker-style protein; high cancer expression but not membrane-bound
+P0004,Ion channel regulatory subunit,MEMBRANE,ANON4,chr11,901,Multi-pass membrane protein with broad normal tissue signal
+P0005,Transmembrane immune modulator,MEMBRANE,ANON5,chr12,515,Single-pass membrane protein with restricted normal tissue profile
+P0006,Cytosolic metabolic enzyme,CYTOSOLIC,ANON6,chr16,389,High abundance housekeeping-like protein; included as a negative control
+P0007,Receptor tyrosine pseudokinase-like protein,MEMBRANE,ANON7,chr19,1042,Large extracellular domain with two splice isoforms
+P0008,Vesicle trafficking accessory protein,CYTOSOLIC,ANON8,chr22,309,Intracellular comparator protein

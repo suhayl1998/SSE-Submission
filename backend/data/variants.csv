@@ -1,0 +1,9 @@
+variant_id,isoform_id,variant_type,position_aa,label
+V0001,I0001,missense-like marker,118,ECD-A marker
+V0002,I0001,glycosylation-site marker,284,ECD-B marker
+V0003,I0002,deletion boundary,211,Start of deleted region
+V0004,I0003,splice junction marker,160,Between Ig-like domains
+V0005,I0004,truncation marker,35,N-terminal truncation
+V0006,I0007,glycosylation-site marker,178,Potential extracellular marker
+V0007,I0010,missense-like marker,315,Cysteine rich domain
+V0008,I0011,splice junction marker,593,C-terminal exclusion boundary

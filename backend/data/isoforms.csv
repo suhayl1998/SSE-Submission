@@ -1,0 +1,13 @@
+isoform_id,protein_id,accession,isoform_name,length_aa,start_aa,end_aa,notes
+I0001,P0001,P0001-001,canonical,740,1,740,Full length canonical isoform
+I0002,P0001,P0001-002,short extracellular loop deletion,693,1,693,Deletion between aa 211-257
+I0003,P0002,P0002-001,canonical,612,1,612,Full receptor isoform
+I0004,P0002,P0002-002,ECD truncation,501,1,501,Truncated extracellular N-terminus
+I0005,P0003,P0003-001,canonical,428,1,428,Secreted canonical isoform
+I0006,P0004,P0004-001,canonical,901,1,901,Full channel-associated isoform
+I0007,P0005,P0005-001,canonical,515,1,515,Single pass canonical isoform
+I0008,P0005,P0005-002,alternative cytoplasmic tail,472,1,472,Alternative C terminal tail
+I0009,P0006,P0006-001,canonical,389,1,389,Cytosolic canonical isoform
+I0010,P0007,P0007-001,canonical,1042,1,1042,Full pseudokinase-like receptor
+I0011,P0007,P0007-002,kinase-domain excluded,821,1,821,C-terminal intracellular region excluded
+I0012,P0008,P0008-001,canonical,309,1,309,Cytosolic canonical isoform

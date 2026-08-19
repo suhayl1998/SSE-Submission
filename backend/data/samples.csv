@@ -1,0 +1,11 @@
+sample_id,sample_name,sample_class,indication,sample_type,dataset_name
+S0001,Cancer_A_01,Cancer,Cancer Type A,Tumour,Cohort Alpha
+S0002,Cancer_A_02,Cancer,Cancer Type A,Tumour,Cohort Alpha
+S0003,Cancer_B_01,Cancer,Cancer Type B,Tumour,Cohort Beta
+S0004,Cancer_B_02,Cancer,Cancer Type B,Tumour,Cohort Beta
+S0005,Normal_Liver_01,Normal,Liver,Normal tissue,Reference Normals
+S0006,Normal_Lung_01,Normal,Lung,Normal tissue,Reference Normals
+S0007,Normal_Kidney_01,Normal,Kidney,Normal tissue,Reference Normals
+S0008,Normal_Heart_01,Normal,Heart,Normal tissue,Reference Normals
+S0009,CellLine_X_01,Cell line,Cancer Type A model,Cell line,Model Panel
+S0010,CellLine_Y_01,Cell line,Cancer Type B model,Cell line,Model Panel

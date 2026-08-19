@@ -1,0 +1,45 @@
+domain_id,isoform_id,feature_name,start_aa,end_aa,feature_type
+D0001,I0001,Signal peptide,1,22,topology
+D0002,I0001,Extracellular domain A,45,210,domain
+D0003,I0001,Extracellular domain B,258,402,domain
+D0004,I0001,Transmembrane helix 1,430,452,topology
+D0005,I0001,Cytoplasmic tail,453,740,topology
+D0006,I0002,Signal peptide,1,22,topology
+D0007,I0002,Extracellular domain A,45,210,domain
+D0008,I0002,Transmembrane helix 1,383,405,topology
+D0009,I0002,Cytoplasmic tail,406,693,topology
+D0010,I0003,Signal peptide,1,24,topology
+D0011,I0003,Ig-like domain 1,45,144,domain
+D0012,I0003,Ig-like domain 2,165,260,domain
+D0013,I0003,Transmembrane helix,421,443,topology
+D0014,I0003,Cytoplasmic motif,444,612,topology
+D0015,I0004,Signal peptide,1,24,topology
+D0016,I0004,Ig-like domain 2,55,150,domain
+D0017,I0004,Transmembrane helix,310,332,topology
+D0018,I0004,Cytoplasmic motif,333,501,topology
+D0019,I0005,Signal peptide,1,19,topology
+D0020,I0005,Matrix-binding domain,74,231,domain
+D0021,I0005,Glycosylated region,260,390,domain
+D0022,I0006,Transmembrane helix 1,52,74,topology
+D0023,I0006,Regulatory domain,180,355,domain
+D0024,I0006,Transmembrane helix 2,620,642,topology
+D0025,I0006,Cytoplasmic C-terminal region,650,901,topology
+D0026,I0007,Signal peptide,1,25,topology
+D0027,I0007,Extracellular immunomodulatory domain,44,220,domain
+D0028,I0007,Transmembrane helix,301,323,topology
+D0029,I0007,Cytoplasmic region,324,515,topology
+D0030,I0008,Signal peptide,1,25,topology
+D0031,I0008,Extracellular immunomodulatory domain,44,220,domain
+D0032,I0008,Transmembrane helix,301,323,topology
+D0033,I0008,Alternative cytoplasmic tail,324,472,domain
+D0034,I0009,Catalytic domain,40,335,domain
+D0035,I0010,Signal peptide,1,23,topology
+D0036,I0010,Receptor L domain,55,210,domain
+D0037,I0010,Cysteine rich domain,230,390,domain
+D0038,I0010,Transmembrane helix,570,592,topology
+D0039,I0010,Pseudokinase domain,715,1005,domain
+D0040,I0011,Signal peptide,1,23,topology
+D0041,I0011,Receptor L domain,55,210,domain
+D0042,I0011,Cysteine rich domain,230,390,domain
+D0043,I0011,Transmembrane helix,570,592,topology
+D0044,I0012,Coiled-coil region,90,180,domain

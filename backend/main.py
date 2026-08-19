@@ -2,7 +2,7 @@ from fastapi import FastAPI, Depends, Query, Request
 from fastapi.middleware.cors import CORSMiddleware
 from database.database import get_db
 from repository.protein_repository import ProteinRepository
-from backend.services.protein_service import ProteinService
+from services.protein_service import ProteinService
 from fastapi.responses import JSONResponse
 from sqlalchemy.ext.asyncio import AsyncSession
 from exceptions import AppError

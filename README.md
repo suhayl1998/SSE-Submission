@@ -2,6 +2,9 @@
 
 This application is a protein data explorer: a FastAPI backend serves protein, isoform, expression, and interaction data from a SQLite database, and a Vue.js frontend lets a user search for a protein and visualize it across three views.
 
+<img width="901" height="936" alt="image" src="https://github.com/user-attachments/assets/870fb679-d291-43b9-82fe-be702b3c54e9" />
+
+
 ## Setup
 
 ### Prerequisites
